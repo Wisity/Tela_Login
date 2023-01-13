@@ -1,0 +1,37 @@
+
+.form{
+    text-align: center;
+   margin-top: 25%;
+  border: 2px solid black;
+  background: linear-gradient(64deg,green,black);
+   margin-inline-start: 35%;
+   margin-inline-end: 35%;
+   padding: 25px;
+   border-top-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+}
+
+.form input{
+    margin-bottom: 15px;
+    margin: 15;
+    border-radius: 25px;
+}
+.form button{
+    margin-bottom: 15px;
+    margin: 15;
+    border-radius: 25px;
+    background: linear-gradient(64deg,green,black);
+    border: 2px solid black;
+    color: white;
+}
+a{
+    color: white;
+}
+.form button:hover{
+    margin-bottom: 15px;
+    margin: 15;
+    border-radius: 25px;
+    background: linear-gradient(64deg,green, blue);
+    border: 2px solid black;
+    color: white;
+}
